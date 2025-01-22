@@ -1,0 +1,15 @@
+e24f231 fixed file to merge
+7d6e15d added text on features branch
+4e6ec97 No more new features in the new features
+8ced3fb Merge branch 'features'
+a5771f8 added more text to file 1
+dc0a39a added text to new features
+abe9731 added new features file
+c498579 Add .gitignore file to ignore api-keys.txt
+4e64ba4 Added .gitignore file
+0bd7dfd created .gitignore file with api-keys.txt
+633d846 Add Readme with title and description
+828db46 file 2 text
+d5e3b35 edited file 1 again
+66defde file 1 text
+c90d545 new files
